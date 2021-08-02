@@ -12,6 +12,7 @@ public class Movie {
         this.movieName = movieName;
         this.moviePoster = moviePoster;
         this.movieRating = movieRating;
+        this.movieRating = movieRating;
     }
 
     public String getId() {
